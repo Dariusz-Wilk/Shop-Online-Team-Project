@@ -1,11 +1,10 @@
-
-
-
 # WDP Projekt Zespołowy
 
 ## Inicjacja projektu
 
 Po sklonowaniu projektu, zainstaluj wymagane paczki komendą `yarn install` (lub `npm install`).
+
+Rekomendowana wersja Node.js: **v16.14.0**
 
 Teraz możesz zacząć pracę, korzystając z przygotowanych taska `yarn start` (lub `npm start`).
 
@@ -27,4 +26,3 @@ Projekt korzysta z Git Hooks - możliwości uruchamiania skryptów w reakcji na 
 
 Za każdym razem gdy wykonasz komendę `git commit` zostaną uruchomione testy jednostkowe, formatowanie oraz lintowanie
 dla plików, które zostały wybrane za pomocą `git add` i mają być zapisane w commicie.
-
